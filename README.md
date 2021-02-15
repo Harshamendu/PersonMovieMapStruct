@@ -10,6 +10,7 @@ For further reference, please consider the following sections:
 
 ### Reference URLS used
 
+* https://mapstruct.org/documentation/stable/reference/html/
 * https://stackabuse.com/guide-to-mapstruct-in-java-advanced-mapping-library/
 * https://mapstruct.org/news/2020-09-28-mapstruct-1_4_0_Final-is-out/
 
