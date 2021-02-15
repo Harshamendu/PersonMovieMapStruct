@@ -20,9 +20,11 @@ For further reference, please consider the following sections:
  	** Returns all Person with associated movies
  * http://localhost:8080/personMovie/getAllPersonMovieDTO
  	** Returns all Person with associated proxy movies where mappers are spring beans
+  https://github.com/Harshamendu/PersonMovieMapStruct/blob/master/PersonMovieMapper.png
  
 ##### Movie API
  * http://localhost:8080/movie/getAllMovies
   	** Returns all movies
  * http://localhost:8080/movie/getAllMoviesDTO
  	** Returns all movie DTO
+  https://github.com/Harshamendu/PersonMovieMapStruct/blob/master/MovieMapper.png
