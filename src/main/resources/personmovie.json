@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "personId": 1,
+        "firstName": "Aliko",
+        "lastName": "Dangote",
+        "subscriptionType": "Annual Subscriber",
+        "age": "25",
+        "movieList": [
+            {
+                "id": 1,
+                "imdbId": 1,
+                "title": "Aladdin",
+                "storyLine": "Aladdin is a lovable street urchin who meets Princess Jasmine, the beautiful daughter of the sultan of Agrabah. While visiting her exotic palace, Aladdin stumbles upon a magic oil lamp that unleashes a powerful, wisecracking, larger-than-life genie. As Aladdin and the genie start to become friends, they must soon embark on a dangerous mission to stop the evil sorcerer, Jafar, from overthrowing young Jasmine kingdom.",
+                "releaseDate": "2019-05-24T04:00:00.000+00:00",
+                "rated": "PG"
+            },
+            {
+                "id": 2,
+                "imdbId": 2,
+                "title": "Mulan",
+                "storyLine": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+                "releaseDate": "2020-09-04T04:00:00.000+00:00",
+                "rated": "PG13"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "personId": 2,
+        "firstName": "Bill",
+        "lastName": "Gates",
+        "subscriptionType": "Guest",
+        "age": "45",
+        "movieList": [
+            {
+                "id": 1,
+                "imdbId": 1,
+                "title": "Aladdin",
+                "storyLine": "Aladdin is a lovable street urchin who meets Princess Jasmine, the beautiful daughter of the sultan of Agrabah. While visiting her exotic palace, Aladdin stumbles upon a magic oil lamp that unleashes a powerful, wisecracking, larger-than-life genie. As Aladdin and the genie start to become friends, they must soon embark on a dangerous mission to stop the evil sorcerer, Jafar, from overthrowing young Jasmine kingdom.",
+                "releaseDate": "2019-05-24T04:00:00.000+00:00",
+                "rated": "PG"
+            },
+            {
+                "id": 3,
+                "imdbId": 3,
+                "title": "Train to Busan ",
+                "storyLine": "Martial law is declared when a mysterious viral outbreak pushes Korea into a state of emergency. Those on an express train to Busan, a city that has successfully fended off the viral outbreak, must fight for their own survival…",
+                "releaseDate": "2016-07-20T04:00:00.000+00:00",
+                "rated": "NC17"
+            },
+            {
+                "id": 4,
+                "imdbId": 4,
+                "title": "Black Panther",
+                "storyLine": "King TChalla returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his countrys new leader. However, TChalla soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, TChalla assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan special forces) and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "releaseDate": "2018-02-16T05:00:00.000+00:00",
+                "rated": "PG13"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "personId": 3,
+        "firstName": "kill",
+        "lastName": "Ramos",
+        "subscriptionType": "Monthly Subscriber",
+        "age": "33",
+        "movieList": [
+            {
+                "id": 3,
+                "imdbId": 3,
+                "title": "Train to Busan ",
+                "storyLine": "Martial law is declared when a mysterious viral outbreak pushes Korea into a state of emergency. Those on an express train to Busan, a city that has successfully fended off the viral outbreak, must fight for their own survival…",
+                "releaseDate": "2016-07-20T04:00:00.000+00:00",
+                "rated": "NC17"
+            },
+            {
+                "id": 1,
+                "imdbId": 1,
+                "title": "Aladdin",
+                "storyLine": "Aladdin is a lovable street urchin who meets Princess Jasmine, the beautiful daughter of the sultan of Agrabah. While visiting her exotic palace, Aladdin stumbles upon a magic oil lamp that unleashes a powerful, wisecracking, larger-than-life genie. As Aladdin and the genie start to become friends, they must soon embark on a dangerous mission to stop the evil sorcerer, Jafar, from overthrowing young Jasmine kingdom.",
+                "releaseDate": "2019-05-24T04:00:00.000+00:00",
+                "rated": "PG"
+            },
+            {
+                "id": 4,
+                "imdbId": 4,
+                "title": "Black Panther",
+                "storyLine": "King TChalla returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his countrys new leader. However, TChalla soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, TChalla assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan special forces) and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "releaseDate": "2018-02-16T05:00:00.000+00:00",
+                "rated": "PG13"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "personId": 4,
+        "firstName": "Folrunsho",
+        "lastName": "Alakija",
+        "subscriptionType": "Guest",
+        "age": "30",
+        "movieList": [
+            {
+                "id": 1,
+                "imdbId": 1,
+                "title": "Aladdin",
+                "storyLine": "Aladdin is a lovable street urchin who meets Princess Jasmine, the beautiful daughter of the sultan of Agrabah. While visiting her exotic palace, Aladdin stumbles upon a magic oil lamp that unleashes a powerful, wisecracking, larger-than-life genie. As Aladdin and the genie start to become friends, they must soon embark on a dangerous mission to stop the evil sorcerer, Jafar, from overthrowing young Jasmine kingdom.",
+                "releaseDate": "2019-05-24T04:00:00.000+00:00",
+                "rated": "PG"
+            },
+            {
+                "id": 3,
+                "imdbId": 3,
+                "title": "Train to Busan ",
+                "storyLine": "Martial law is declared when a mysterious viral outbreak pushes Korea into a state of emergency. Those on an express train to Busan, a city that has successfully fended off the viral outbreak, must fight for their own survival…",
+                "releaseDate": "2016-07-20T04:00:00.000+00:00",
+                "rated": "NC17"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "personId": 5,
+        "firstName": "Sara",
+        "lastName": "Tenc",
+        "subscriptionType": "Guest",
+        "age": "35",
+        "movieList": []
+    }
+]
